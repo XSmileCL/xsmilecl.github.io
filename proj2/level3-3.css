@@ -1,0 +1,47 @@
+body{
+	border: 15px groove #90CAB6;
+	border-top: 15px double #CE1E8A;
+	border-bottom: 15px double blue;
+	margin: 20px;
+	padding: 10px;
+}
+
+h1{
+	position: relative;
+	left: 25px;
+	top: 10px;
+}
+
+.author{
+	position: relative;
+	top: 1px;
+	left: 25px;
+
+	border: 10px outset #CE1E8A;
+	margin-right: 70px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.information{
+	border: 10px ridge #EEFFBB;
+	padding: 5px;
+	padding-bottom: 5px;
+}
+
+.part1{
+	border: 10px solid #90CAB6;
+	width: 150px;
+	height: 10px;
+
+	margin-left: 500px;
+}
+
+p{
+	border: 10px ridge #F3A586;
+}
+
+div{
+	margin-top: 10px;
+	border-bottom: 5px dotted #90CAB6;
+}

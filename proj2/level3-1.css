@@ -1,0 +1,58 @@
+h1{
+	border: dashed black;
+	border-bottom:  dotted #F62459;
+	border-top: dotted #D2527F;
+	border-radius: 10px;
+	border-width: 80px;
+	margin: 30px;
+	text-align: center;
+	padding: 30px 30px 30px 30px;
+}
+
+.h1{
+	border: none;
+	text-align: center;
+	text-decoration: underline;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #F1A9A0
+}
+
+.pa1{
+	margin: 50px 100px 0px 100px;
+	text-align: center;
+	margin-bottom: 30px;
+	background-color: #FDE3A7;
+}
+.pa1-1{
+	border-bottom: 1px dashed #F62459;
+}
+.pa1-2{
+	background-color: #F64747;
+	text-align: center;
+	border: 1px dashed #F62459;
+	padding-bottom: 20px; 
+	padding-top: 20px;
+}
+
+.pa1-2-1{
+	background-color: #AEA8D3;
+	border-radius: 5px;
+	border: 1px dashed yellow;
+}
+
+.sh{
+	background-color: yellow;
+}
+
+.pa2-1{
+	background-color: #D2527F;
+	margin: 50px;
+	padding: 0px 40px 20px 40px;
+}
+
+.pa2-2{
+	background-color: #DCC6E0;
+	float: right;
+	text-align: right;
+}

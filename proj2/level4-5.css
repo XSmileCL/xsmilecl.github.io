@@ -1,0 +1,55 @@
+h1{
+	line-height: 80px;
+	letter-spacing: 90px;
+	color: green;
+}
+.paragraph1{
+	line-height: 50px;
+	letter-spacing: 10px;
+	color: gray;
+	position: relative;
+	left: 150px;
+	border-bottom: 1px solid red;
+	border-width: 2px;
+}
+.paragraph2{
+	line-height: 50px;
+	letter-spacing: 10px;
+	color: purple;
+	position: relative;
+	border-bottom: 2px solid red;
+	border-width: 2px;
+	left: 700px;
+}
+.paragraph3{
+	line-height: 50px;
+	letter-spacing: 10px;
+	color: gray;
+	border-bottom: 2px solid red;
+	border-width: 2px;
+}
+.paragraph4{
+	line-height: 50px;
+	letter-spacing: 10px;
+	color: purple;
+	position: relative;
+	border-bottom: 2px solid red;
+	border-width: 2px;
+	left: 700px;
+}
+.paragraph5{
+	line-height: 50px;
+	letter-spacing: 10px;
+	color: gray;
+	border-bottom: 2px solid red;
+	border-width: 2px;
+}
+.paragraph6{
+	line-height: 50px;
+	letter-spacing: 10px;
+	color: purple;
+	position: relative;
+	border-bottom: 2px solid red;
+	border-width: 2px;
+	left: 700px;
+}

@@ -1,0 +1,72 @@
+h1{
+	font-family: Garamond;
+	font-size: 100px;
+	line-height: 90px;
+	text-shadow: 3px 3px yellow;
+	text-align: center;
+	color: #9B59B6;
+}
+.author{
+	text-align: center;
+	font-family: Avenir;
+}
+
+.paragraph1{
+	font-family: Garamond;
+	font-size: 20px;
+	font-style: oblique;
+	margin-left: 100px;
+	letter-spacing: 2px;
+	line-height: 120%;
+}
+
+img{
+	border: 5px solid yellow;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+
+	position: absolute;
+	right: 100px;
+	left: 700px;
+}
+
+
+.paragraph2{
+	margin-left: 200px;
+	margin-top: 50px;
+	font-family: cursive;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+.paragraph3{
+	font-family: Garamond;
+	font-size: 20px;
+	font-style: oblique;
+	margin-left: 100px;
+	letter-spacing: 2px;
+	line-height: 120%;
+}
+
+.paragraph4{
+	margin-left: 200px;
+	margin-top: 50px;
+	font-family: cursive;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+.paragraph5{
+	font-family: Garamond;
+	font-size: 20px;
+	font-style: oblique;
+	margin-left: 100px;
+	letter-spacing: 2px;
+	line-height: 120%;
+}
+.paragraph6{
+	margin-left: 200px;
+	margin-top: 50px;
+	font-family: cursive;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
