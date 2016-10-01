@@ -1,0 +1,35 @@
+header{
+	background-color: brown;
+}
+nav{
+	background-color: yellow;
+}
+section{
+	background-color: orange;
+}
+footer{
+	background-color: green;
+}
+@media screen and (min-width: 600px) {
+	nav{
+		float: left;
+		width: 25%;
+	}
+	section{
+		margin-left: 25%;
+	}
+	footer{
+		clear: both;
+	}
+}
+
+@media screen and (max-width: 599px) {
+	nav li{
+		display: inline;
+	}
+}
+
+
+
+
+

@@ -1,0 +1,20 @@
+header{
+	background-color: green;
+	height: 100px;
+}
+
+nav{
+	background: orange;
+	float: left;
+	width: 25%;
+}
+section{
+	background-color: pink;
+	margin-left: 25%;
+}
+section img{
+	width: 50%;
+}
+footer{
+	background-color: yellow;
+}
