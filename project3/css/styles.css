@@ -1,0 +1,146 @@
+/* Global Styles */
+html { box-sizing: border-box; }
+* { margin: 0; padding: 0; box-sizing: inherit;}
+
+
+body {
+	height: 100%;
+    line-height: 24px;
+    font: 17px "Courier New", "Courier Prime", Courier, monospace;
+    text-align: left;
+    color: #000;
+    background-color: #fff;
+}
+
+.a {
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    padding-top: 15px;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+#header {
+	height: 65px;
+    width: 100%;
+    display: table;
+    color: #000;
+    background-color: #ffffff;
+    position: fixed;
+    left: 0;
+    z-index: 1;
+}
+
+.head-bar {
+    height: 34px;
+    width: 100%;
+    line-height: 0;
+    position: relative;
+}
+
+.head-bar h1 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+    width: 100%;
+    position: fixed;
+    top: 7px;
+    left: 0;
+    padding: 0;
+    margin: 0;
+}
+.nav {
+    font-size: 16px;
+    font-weight: normal;
+    padding-top: 16px;
+    display: block;
+}
+a {
+    text-decoration: none;
+}
+
+a.btn_home{
+    padding-left: 25px;
+}
+
+a.btn_intro{
+    padding-left: 80px;
+}
+ul li.btn_twitter a{
+    float: right;
+    padding-right: 55px;
+}
+ul li.btn_facebook a{
+    float: right;
+    padding-right: 30px;
+}
+
+.content{
+    width: 100%;
+}
+
+.year {
+    font-family: 'Monoton', cursive;
+    font-size: 120px;
+    color: #ff311e;
+    padding-top: 85px;
+    line-height: 1;
+    text-align: center;
+}
+
+.border {
+    border: 4px solid #ff311e;
+    width: 95%;
+    margin-left: 10px;
+}
+
+.content {
+    width: 100%;
+    
+}
+
+.column {
+    width: 25%;
+    background-color: #fce5e0;
+    float: left;
+}
+
+.column .text {
+    height: 68vh;
+    overflow: scroll;
+    margin: 5px 10px 5px 10px;
+    padding: 10px;
+    background-color: #ffeeed;
+}
+
+.title {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin-bottom: 8px;
+    margin-top: 3px;
+}
+
+.images {
+    width: 95%;
+}
+
+@media screen and (max-width:599px) {
+  .column {
+    width: 100%;
+  }
+  .column .text {
+    height: auto;
+    overflow: visible;
+  }
+}
+
+footer {
+   font-size: 12px;
+   text-align: center;
+   line-height: 2;
+}
+
+
+
+
